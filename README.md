@@ -20,3 +20,7 @@ Este é o meu primeiro projeto, que foi criado com o objetivo de:
 - Interação com usuário
 # Desenvolvedora:
 Yasmin Lins Buarque de Assunção 
+
+## Versão visual do projeto também disponível
+- Exemplo feito em HTML e CSS
+- Acessar `index.html´
