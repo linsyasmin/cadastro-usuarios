@@ -18,7 +18,8 @@ Este é o meu primeiro projeto, que foi criado com o objetivo de:
 - Praticar leitura e escrita de arquivos em Python
 - Organização de dados
 - Interação com usuário
-# Desenvolvedora:
+  
+## Desenvolvedora:
 Yasmin Lins Buarque de Assunção 
 
 ## Versão visual do projeto também disponível
