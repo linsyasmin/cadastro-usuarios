@@ -25,3 +25,7 @@ Yasmin Lins Buarque de Assunção
 ## Versão visual do projeto também disponível
 - Exemplo feito em HTML e CSS
 - Acessar `index.html´
+
+## Planejamento de melhorias futuras (em andamento)
+- Refatorar em módulos e funções (OK)
+- Criar versão para interface funcional
